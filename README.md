@@ -16,6 +16,11 @@
   - Chạy kích hoạt xong là OK!
   - ![image](https://github.com/BsNgChiThanh/office-365-prolus/assets/82578024/0618da42-d988-4c0d-8835-f9092c91c0d4)
   - ![image](https://github.com/BsNgChiThanh/office-365-prolus/assets/82578024/3577be8e-f30e-4044-843c-3dd6ee3a0ef8)
+
+#### Ghi chú: ####
+- Khi cài đặt source online ở trên (tức source liệt kê dưới đây) khi dùng MASS kích hoạt ra Office 365 Enterprise:
+  - https://raw.githubusercontent.com/BsNgChiThanh/office-365-prolus/IMP/OfficeSetup365Prolusx32.exe
+  - https://raw.githubusercontent.com/BsNgChiThanh/office-365-prolus/IMP/OfficeSetup365Prolusx64.exe
   - ![image](https://github.com/BsNgChiThanh/office-365-prolus/assets/82578024/5fd3e212-f8db-4bfd-aa8d-c6caa7a17f22)
 
 
