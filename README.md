@@ -8,7 +8,7 @@
 - Download về cài đặt như bình thường:
   - ![image](https://github.com/BsNgChiThanh/office-365-prolus/assets/82578024/28f51db9-ee9a-4b76-b481-ef5a27720210)
   - ![image](https://github.com/BsNgChiThanh/office-365-prolus/assets/82578024/bca5fb59-656d-46ef-886a-2341003231e5)
-  - ![image](https://github.com/BsNgChiThanh/office-365-prolus/assets/82578024/e0cf9cb2-5bc5-4289-8cbe-e53d319f9d80) 
+  - ![image](https://github.com/BsNgChiThanh/office-365-prolus/assets/82578024/598d052c-f76e-4686-a961-930012869a22)
     
 ## KÍCH HOẠT OFFICE ##
   - Dùng Mass Tools: https://github.com/BsNgChiThanh/MAS-TOOL
