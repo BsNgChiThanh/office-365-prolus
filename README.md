@@ -5,6 +5,8 @@
   - https://raw.githubusercontent.com/BsNgChiThanh/office-365-prolus/IMP/OfficeSetup365Prolusx64.exe
   - Phải cài đúng source office 365 Prolus mới được nhé các bạn!
   - Download về cài đặt như bình thường, cài xong tiến hành kích hoạt.
+  - ![image](https://github.com/BsNgChiThanh/office-365-prolus/assets/82578024/fa8f3c4d-389a-49f7-9505-db8a748eae53)
+  - ![image](https://github.com/BsNgChiThanh/office-365-prolus/assets/82578024/0f41ab99-ea11-4e58-be51-b1f49b5ec5a0)
     
 ## KÍCH HOẠT OFFICE ##
   - Dùng Mass Tools: https://github.com/BsNgChiThanh/MAS-TOOL
