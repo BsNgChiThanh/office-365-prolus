@@ -13,3 +13,5 @@
   - Dùng Mass Tools: https://github.com/BsNgChiThanh/MAS-TOOL
   - Bấm vào link trên để xem hướng dẫn.
   - Chạy kích hoạt xong là OK!
+  - ![image](https://github.com/BsNgChiThanh/office-365-prolus/assets/82578024/4351f43e-74af-466c-bcad-c8de7b829e4b)
+
